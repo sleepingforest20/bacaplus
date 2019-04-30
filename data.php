@@ -1,0 +1,12 @@
+<?php
+$uid="Facebook_107018163844141";
+$raw_uid="7c729df8-36cf-418f-aef2-9fc34d913c3e";
+$user_name="Daifuku+Nara";
+$invite_code="FUO77FGqz";
+$user_token="Abx__8X_Ey1rLnB1";
+$own_mac="02%3A00%3A00%3A00%3A00%3A00";
+$android_id="7a144d6fdfda54dc";
+$device_type="Xiaomi++Redmi+4X";
+$ua="Mozilla%2F5.0+%28Linux%3B+Android+7.1.2%3B+Redmi+4X+Build%2FN2G47H%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F74.0.3729.112+Mobile+Safari%2F537.36";
+$operator="Smartfren+%2851009%29";
+?>
